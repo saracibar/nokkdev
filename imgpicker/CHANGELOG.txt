@@ -1,0 +1,5 @@
+Filepicker 2.0.1
+
+
+
+http://docs.hazzardweb.com/filepicker/master/changelog
